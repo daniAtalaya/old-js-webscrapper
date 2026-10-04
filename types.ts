@@ -1,4 +1,3 @@
-const {Data} = require('./utils');
 type TImage = {
 	url: String;
 	origin: "Local" | "Internet";
