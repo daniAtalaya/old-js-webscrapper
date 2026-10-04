@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "npx tsc @ts-files.txt --removeComments && cls && node main"
+    "startt": "npx tsc @ts-files.txt --removeComments && cls && node main"
   },
   "keywords": [],
   "author": "",
