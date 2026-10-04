@@ -1,2 +1,0 @@
-# typescript-design-patterns-playground
- 
