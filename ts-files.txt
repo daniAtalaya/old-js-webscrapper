@@ -1,4 +1,0 @@
-main.ts
-utils.ts
-types.ts
-factories.ts
