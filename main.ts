@@ -2,6 +2,7 @@ const scheduler = require('node-schedule');
 const cheerio = require('cheerio');
 const fetcher = require('node-fetch');
 const { Volumen, Coleccion } = require('./types');
+
 const downloadData = async (obj: any, url: string) => {
     const response: Response = await fetcher(url, {});
     if(!response.ok) return;
